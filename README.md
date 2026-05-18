@@ -57,20 +57,6 @@ Fire-Detection-System/
 │
 └── README.md
 
-```
-
----
-
-#  Technologies Used
-
-- Python
-- YOLOv8
-- OpenCV
-- PyTorch
-- Pygame
-- CUDA
-
----
 
 # 📊 Dataset
 
