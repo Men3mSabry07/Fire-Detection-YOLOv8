@@ -31,7 +31,7 @@ The project was developed as part of an academic deep learning and computer visi
 # 👨‍🏫 Supervision
 
 - **Instructor:** Dr. Asmaa Abbas Hassan
-- **Mentor:** Eng. Osama
+- **Mentor:** Eng. Ali Osama
 
 ---
 
