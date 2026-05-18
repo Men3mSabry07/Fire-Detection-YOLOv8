@@ -17,14 +17,13 @@ This project focuses on building a deep learning-based fire detection system cap
 
 The project was developed as part of an academic deep learning and computer vision project.
 
----
-
 # 👨‍💻 Team Members
 
-- **Abdelmonem Sabry**
-- **Ali Omar Salama**
-- **Abdullah Mohamed Salah**
-- **Madonna Ashraf Fakhry**
+<div align="center">
+
+Abdelmonem Sabry • Ali Omar Salama • Abdullah Mohamed Salah • Madonna Ashraf Fakhry
+
+</div>
 
 ---
 
