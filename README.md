@@ -56,11 +56,8 @@ Fire-Detection-System/
 │   ├── best.pt
 │   └── last.pt
 │
-├── Data/
-│   └── data.yaml
-│
-├── README.md
-└── requirements.txt
+└── README.md
+
 ```
 
 ---
