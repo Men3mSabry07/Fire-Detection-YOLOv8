@@ -62,7 +62,7 @@ Fire-Detection-System/
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 - Python
 - YOLOv8
@@ -167,7 +167,7 @@ This approach helps reduce false alarms and improves system stability.
 
 ---
 
-# 🧪 Challenges Faced
+#  Challenges Faced
 
 During development, several challenges were encountered:
 
@@ -179,7 +179,7 @@ During development, several challenges were encountered:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Mobile notification integration
 - IoT alarm integration
@@ -190,13 +190,13 @@ During development, several challenges were encountered:
 
 ---
 
-# 📎 Training Results
+#  Training Results
 
 Google Colab Results Notebook:
 
 https://colab.research.google.com/drive/1papIS4YPooGFm3GVOy4V_oLNEavvKxzS?usp=sharing
 
-# 🏁 Conclusion
+#  Conclusion
 
 This project demonstrates how deep learning and computer vision can be applied to build a practical real-time fire detection system.
 
