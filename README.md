@@ -22,9 +22,9 @@ The project was developed as part of an academic deep learning and computer visi
 # 👨‍💻 Team Members
 
 - **Abdelmonem Sabry**
-- Ali Omar Salama
-- Abdullah Mohamed Salah
-- Madonna Ashraf Fakhry
+- **Ali Omar Salama**
+- **Abdullah Mohamed Salah**
+- **Madonna Ashraf Fakhry**
 
 ---
 
