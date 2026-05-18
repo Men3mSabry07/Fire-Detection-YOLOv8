@@ -56,7 +56,7 @@ Fire-Detection-System/
 │   └── last.pt
 │
 └── README.md
-
+```
 
 # 📊 Dataset
 
